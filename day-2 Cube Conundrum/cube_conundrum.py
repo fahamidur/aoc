@@ -1,3 +1,5 @@
+## This attempted solution is unsucessful
+
 file_path = "day-2 Cube Conundrum\input.txt"  # Replace with the actual path to your file
 target = [12, 13, 14]
 # Initializing the set to store results
